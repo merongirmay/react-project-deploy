@@ -31,7 +31,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <h4> &copy: meron girmay 2023</h4>
+      <h4> &copy; meron girmay 2023</h4>
     </>
   )
 }
